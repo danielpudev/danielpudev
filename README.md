@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a 15 y/o developer based in Germany 🇩🇪 with a passion for coding. My coding journey is just beginning, and I'm excited to explore the world of tech! 🚀
+I'm a 16 y/o developer based in Germany 🇩🇪 with a passion for coding. My coding journey is just beginning, and I'm excited to explore the world of tech! 🚀
 ## 📝 Currently learning
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
 ## 🛠 Skills
