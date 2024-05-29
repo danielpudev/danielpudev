@@ -29,7 +29,7 @@ I'm a 16 y/o developer based in Germany 🇩🇪 with a passion for coding. My c
 ![raspbian](https://img.shields.io/badge/raspbian-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 ![windows](	https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ## Other
-👩‍💻 I'm currently working on `my Website`
+👩‍💻 I'm currently working on `a small game`
 
 🧠 I'm currently learning ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
 
